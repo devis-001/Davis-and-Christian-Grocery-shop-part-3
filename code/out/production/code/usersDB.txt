@@ -1,0 +1,4 @@
+admin,user,admin@mail.com,42535,1234567,0.0,Admin
+seller,user,seller@mail.com,4242,1234567,0.0,Seller
+buyer,user,buyer@mail.com,42535,1234567,0.0,Buyer
+buyer,buyer,buyer2@mail.com,213141,1234567,0.0,Buyer
