@@ -1,0 +1,5 @@
+transactionId                  date                                 buyer                      amount
+400000000                    2022-05-07                buyer@mail.com                        $18.39
+400000000                    2022-05-07                buyer@mail.com                        $18.39
+400000000                    2022-05-07                buyer@mail.com                        $18.39
+400000000                    2022-05-07                buyer@mail.com                        $30.99

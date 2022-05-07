@@ -1,0 +1,9 @@
+admin,user,admin@mail.com,42535,1234567,0.0,Admin
+seller,user,seller@mail.com,4242,1234567,0.0,Seller
+seller1,user,seller1@mail.com,4242,1234567,0.0,Seller
+seller2,user,seller2@mail.com,4242,1234567,0.0,Seller
+buyerx,another,buyerx@mail.com,47923492,1234567,0.0,Buyer
+buyer,another,buyer@mail.com,47923492,1234567,0.0,Buyer
+buyer,another,buyer1@mail.com,47923492,1234567,0.0,Buyer
+Devis,Cheruiyot,davis@mail.com,12345,12345,0.0,Admin
+admin1,admin1,admin@mail.com,1234,1234,0.0,Admin
