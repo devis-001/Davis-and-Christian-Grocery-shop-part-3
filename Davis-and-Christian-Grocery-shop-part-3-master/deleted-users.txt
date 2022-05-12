@@ -1,0 +1,2 @@
+deletionDate     role                   email                       deletedBy
+2022-05-07     Buyer                 otis@mail.com                admin@mail.com

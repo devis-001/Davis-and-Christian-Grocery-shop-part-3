@@ -1,0 +1,7 @@
+transactionId                  date                                 buyer                      amount
+400000000                    2022-05-07                buyer@mail.com                        $18.39
+400000000                    2022-05-07                buyer@mail.com                        $18.39
+400000000                    2022-05-07                buyer@mail.com                        $18.39
+400000000                    2022-05-07                buyer@mail.com                        $30.99
+
+63b59bc4-f                    2022-05-12                devis@mail.com          $ 49.379999999999995

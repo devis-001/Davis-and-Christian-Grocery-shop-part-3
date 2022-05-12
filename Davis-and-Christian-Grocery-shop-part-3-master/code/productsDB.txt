@@ -1,0 +1,11 @@
+500000000,Tomatoes,18.39,seller@mail.com,97
+500000002,Lettuce,30.99,seller@mail.com,29
+500000012,cabbage,10.99,seller@mail.com,49
+500000006,updated2,34.0,seller@mail.com,10
+500000019,apple,30.0,seller@mail.com,23
+500000010,avocado,10.0,seller2@mail.com,25
+500000012,another,20.0,seller@mail.com,30
+500000014,updated,10.0,seller@mail.com,9
+500000032,testP,100.0,seller@mail.com,199
+500000018,fs,5.0,seller@mail.com,4
+500000020,A name,30.5,seller@mail.com,0
